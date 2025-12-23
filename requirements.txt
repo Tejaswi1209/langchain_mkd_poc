@@ -1,0 +1,15 @@
+chainlit
+langchain
+langchain-community
+langchain-openai
+openai
+pillow
+pdf2image
+pytesseract
+opencv-python
+faiss-cpu
+python-dotenv
+numpy
+pandas
+openpyxl
+markitdown
